@@ -42,7 +42,7 @@ If SAV is executed from the Intellij IDEA IDE settings, it is only necessary to 
 **a=m t=c o=az in=m v="a,f,r,f,x" s=140**
 <br>
 **a=q t=n o=za in=m v="2,3,5,6,7" s=140**
-![comandLine.png](comandLine.png)
+![sav/src/comandLine.png](sav/src/comandLine.png)
 
 This command will sort the elements with the default algorithm which in this case is "BubbleSort".
 
@@ -94,7 +94,7 @@ The expected inputs and outputs are as follows:
 
 
 ## Class Diagram
-![ClassDiagram.png](ClassDiagram.png)
+![sav/src/ClassDiagram.png](sav/src/ClassDiagram.png)
 
 
 
