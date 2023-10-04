@@ -2,7 +2,7 @@
 
 ## Description
 
-The program orders elements either integers or characters, which are passed as arguments to run the program from the command line, if you want you can specify the algorithm with which you want to order the elements, it is also mandatory to specify what type of data be ordered and their vector together with other parameters that will be specified, the command to execute the program must be done from the out/production/sav folder, otherwise the program will not be executed, before compiling the entire project in that folder , and from the Intellij Idea IDE just compile. Visibilization library by Javier Roca Casap
+The program orders elements either integers or characters, which are passed as arguments to run the program from the command line, if you want you can specify the algorithm with which you want to order the elements, it is also mandatory to specify what type of data be ordered and their vector together with other parameters that will be specified, the command to execute the program must be done from the out/production/sav folder, otherwise the program will not be executed, before compiling the entire project in that folder, and from the Intellij Idea IDE just compile. Visibilization library by Javier Roca Casap. This project uses the Singleton design pattern.
 The algorithms implemented for classification are: BubbleSort, MergeSort and QuickSort. And the parameters that must be specified are:
 
 a => String, which allows you to select one of the three implemented sorting algorithms. The algorithms implemented and accepted at the time of program execution are:
