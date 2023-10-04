@@ -46,6 +46,9 @@ If SAV is executed from the Intellij IDEA IDE settings, it is only necessary to 
 
 This command will sort the elements with the default algorithm which in this case is "BubbleSort".
 
+**Unit test**
+Unit tests were performed for each of the sorting algorithms and also for the parameter validators.
+
 The expected inputs and outputs are as follows:
 
 | Input Example                                  | Output Example                                                                                                                                                                  |
